@@ -1,4 +1,3 @@
-‎-- LocalScript (place in StarterPlayerScripts)
 ‎local HttpService = game:GetService("HttpService")
 ‎local Players = game:GetService("Players")
 ‎local TeleportService = game:GetService("TeleportService")
